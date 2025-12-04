@@ -4,7 +4,7 @@ type AddressType = {
 };
 
 type UserType = {
-  id: number
+  id: string
   name:string
   age: number
   address: AddressType
